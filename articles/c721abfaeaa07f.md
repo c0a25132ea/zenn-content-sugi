@@ -215,9 +215,8 @@ https://mermaid.ai/landing?utm_source=google_ads&utm_medium=primary_search&utm_c
 
 1. 発表の役割分担が曖昧だった
 2. 何を伝えたいかが整理できていなかった
-3. 相手の視点に立った対話ができていなかった
 
-の3項目です。順に説明していきます。
+の2項目です。順に説明していきます。
 
 ## 1.発表の役割分担が曖昧だった
 
@@ -251,7 +250,7 @@ https://mermaid.ai/landing?utm_source=google_ads&utm_medium=primary_search&utm_c
 - 技術スタックの丸暗記より **なぜそうしたかの共有** を重要
 - チーム内の設計に対する **理解の格差** をなくす
 
-### 2. 何を伝えたいかが整理できていなかった
+## 2. 何を伝えたいかが整理できていなかった
  
 **要点**
 - **主役となる機能** を軸に説明の流れを作る
@@ -283,8 +282,6 @@ https://mermaid.ai/landing?utm_source=google_ads&utm_medium=primary_search&utm_c
 - 全機能を紹介するのではなく **刺さるポイントに絞る**
 
 ## これからの開発時の行動について
-
-
 
 ## まとめ 
 
