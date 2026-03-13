@@ -11,7 +11,7 @@ publication_name: "transmedia_blog"
 [TransMedia Tech Lab](https://www.transmedia-tech-lab.jp/)に所属しているB1の杉本 拓海です。
 前回は去年の活動を振り返る記事について書きました。今年もはやいものでもう3月。12分の2が終わったと考えると1年は本当にあっという間だと感じます。今年も実りある1年にするためにも、さっそく研究室のメンバーで技育博に参加してきました!
 そこでの体験を基に今回学びを記事にまとめてみました。
-https://geek.supporterz.jp/geekpjt/
+@[card](https://geek.supporterz.jp/geekpjt/)
 
 ## 最初にこの記事のまとめ
 
