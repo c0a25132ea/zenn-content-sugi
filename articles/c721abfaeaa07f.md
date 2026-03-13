@@ -165,7 +165,9 @@ publication_name: "transmedia_blog"
 - 余力を持たせて **確実にできるタスクだけ入れる**
 - 設計段階での共有が **情報格差を防ぐ**
 
-https://mermaid.ai/landing?utm_source=google_ads&utm_medium=primary_search&utm_campaign=mermaidecosystemfocus-G&gad_campaignid=21291684840&gclid=EAIaIQobChMIu9fPoNqakwMVUJWmAx1J9R6JEAAYASAAEgJjmPD_BwE&gbraid=0AAAAAqtlhyxOXKuu3XvXrWrKy6bkvSEBE&utm_term=mermaid&gad_source=1&utm_content=mermaid_broad
+:::details [参考]Mermaidについて詳しく知りたい方はこちらから
+https://help.docbase.io/posts/3719897
+:::
 
 ## 5.考えずにとにかく手だけ動かしていた
 
